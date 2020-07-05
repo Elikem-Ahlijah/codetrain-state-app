@@ -8,14 +8,14 @@ import './App.css';
 class App extends React.Component {
 
   state={
-    name:'Hello Elikem'
+    name:'name'
   }
 
   render(){
     return(
       <>
         <form>
-          <input></input>
+          <input>{}</input>
         </form>
       </>
     )
